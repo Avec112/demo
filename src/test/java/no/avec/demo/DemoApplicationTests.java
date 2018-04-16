@@ -1,4 +1,4 @@
-package no.ronny.demo;
+package no.avec.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

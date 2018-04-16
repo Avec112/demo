@@ -1,4 +1,4 @@
-package no.ronny.demo.greeting;
+package no.avec.demo.greeting;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

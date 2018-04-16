@@ -1,4 +1,4 @@
-package no.ronny.demo.person;
+package no.avec.demo.person;
 
 /**
  * Created by avec on 16/04/2018.

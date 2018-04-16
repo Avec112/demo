@@ -1,6 +1,5 @@
-package no.ronny.demo.greeting;
+package no.avec.demo.greeting;
 
-import no.ronny.demo.greeting.Greeting;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

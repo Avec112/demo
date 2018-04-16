@@ -1,7 +1,7 @@
-package no.ronny.demo;
+package no.avec.demo;
 
-import no.ronny.demo.customer.Customer;
-import no.ronny.demo.customer.CustomerRepository;
+import no.avec.demo.customer.Customer;
+import no.avec.demo.customer.CustomerRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

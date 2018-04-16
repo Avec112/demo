@@ -1,4 +1,4 @@
-package no.ronny.demo.customer;
+package no.avec.demo.customer;
 
 /**
  * Created by avec on 16/04/2018.
